@@ -1,0 +1,14 @@
+# GHDL build output and waveforms
+build/
+*.o
+*.cf
+*.ghw
+*.vcd
+
+# Always
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
